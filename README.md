@@ -49,3 +49,8 @@
 ## Models
 
 - [fuddl/BrickDock](https://github.com/fuddl/BrickDock) - A Dock compatible with the iPhone 5 made from Lego.
+
+
+## Add-ons
+
+- [bitbeam](https://github.com/hugs/bitbeam) - Lego technic compatible wooden beams
