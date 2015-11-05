@@ -49,9 +49,16 @@
 
 ## Models
 
-- [fuddl/BrickDock](https://github.com/fuddl/BrickDock) - A Dock compatible with the iPhone 5 made from Lego.
+- [fuddl/BrickDock](https://github.com/fuddl/BrickDock) - A Dock compatible with the iPhone 5 made from LEGO bricks.
 
 
 ## Add-ons
 
-- [bitbeam](https://github.com/hugs/bitbeam) - Lego technic compatible wooden beams
+- [bitbeam](https://github.com/hugs/bitbeam) - LEGO technic compatible wooden beams.
+
+
+## YouTube Channels
+
+- [LEGO](https://www.youtube.com/user/LEGO) - Official LEGO channel
+- [akiyuky](https://youtube.com/user/akiyuky) - Various LEGO technic contraptions.
+- [MlCHAELHlCKOXFilms](https://www.youtube.com/user/MlCHAELHlCKOXFilms) - Stop motion LEGO videos.
