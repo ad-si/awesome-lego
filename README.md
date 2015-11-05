@@ -15,6 +15,12 @@
 - [LeoCAD](http://leocad.org) - A CAD program for creating virtual LEGO models.
 
 
+## Online Editors
+
+- [publishyourdesign](http://www.publishyourdesign.com/design) - Build virtual creations with dozens types of Lego pieces.
+- [buildwithchrome](https://www.buildwithchrome.com) - Build a LEGO model on a 32 x 32 baseplate and share it with everybody on a world map.
+
+
 ## Archives
 
 - [brickset](http://brickset.com) - Your LEGO set guide.
