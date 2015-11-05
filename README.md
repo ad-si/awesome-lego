@@ -41,6 +41,12 @@
 - [NateJacobs/Brickset-API](https://github.com/NateJacobs/Brickset-API) - Access LEGO set information using the Brickset API.
 
 
+## Competitors
+
+- [best-lock](http://www.best-lock.com)
+- [Mega Bloks](https://www.megabloks.com)
+
+
 ## Links
 
 - [rebrickable.com/about](http://rebrickable.com/about) - Link collection at the bottom of the page.
