@@ -45,6 +45,7 @@
 
 - [best-lock](http://www.best-lock.com)
 - [Mega Bloks](https://www.megabloks.com)
+- [Airfix](http://www.airfix.com/uk-en/shop/by-brand/quick-build.html)
 
 
 ## Links
