@@ -59,6 +59,8 @@
 
 - [bricklink](http://bricklink.com) - Unofficial LEGO Marketplace.
 - [brickpicker](http://brickpicker.com) - LEGO price and investing guide.
+- [Brick Shop](http://brick-shop.de) - Online shop for bricks and sets.
+- [LEGO Shop](http://shop.lego.com) - Official LEGO online store.
 
 
 ## Models
