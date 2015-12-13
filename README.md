@@ -34,6 +34,7 @@
 	- [LEGO Ideas](http://ideas.brickimedia.org) - Wiki for collecting LEGO ideas.
 - [lugnet](http://lugnet.com) - International LEGO Users Group Network and global community of LEGO enthusiasts.
 - [peeron](http://peeron.com) - Partial listing of the parts in official LEGO sets.
+- [Let's build it again](http://letsbuilditagain.com) - Online LEGO building instructions.
 
 
 ## Software Libraries
