@@ -13,6 +13,7 @@
 - [lpub4](http://lpub4.sourceforge.net) - LPub is a program that allow the production of step by step building instructions for LEGO models created using the LDraw file format.
 - [openldraw](https://github.com/HazenBabcock/openldraw) - A CAD program for designing LEGO(R) MOCs.
 - [LeoCAD](http://leocad.org) - A CAD program for creating virtual LEGO models.
+- [LSculpt](https://code.google.com/p/lsculpt) - Triangle mesh to LDraw file converter.
 
 
 ## Online Editors
