@@ -42,6 +42,7 @@
 - [seankross/lego](https://github.com/seankross/lego) - R data package featuring every Lego set from 1970 to 2014
 - [rioforce/LEGO-Textures](https://github.com/rioforce/LEGO-Textures) - Textures scanned from real LEGO bricks.
 - [NateJacobs/Brickset-API](https://github.com/NateJacobs/Brickset-API) - Access LEGO set information using the Brickset API.
+- [Node LDraw](https://github.com/jsonxr/node-ldraw) - Node.js library for parsing an LDraw file.
 
 
 ## Competitors
