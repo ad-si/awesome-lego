@@ -14,6 +14,7 @@
 - [openldraw](https://github.com/HazenBabcock/openldraw) - A CAD program for designing LEGO(R) MOCs.
 - [LeoCAD](http://leocad.org) - A CAD program for creating virtual LEGO models.
 - [LSculpt](https://code.google.com/p/lsculpt) - Triangle mesh to LDraw file converter.
+- [Toybrick](https://github.com/joewalnes/toybrick) - OpenSCAD module to create bricks.
 
 
 ## Online Editors
