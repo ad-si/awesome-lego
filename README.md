@@ -77,6 +77,12 @@
 - [fuddl/BrickDock](https://github.com/fuddl/BrickDock) - A Dock compatible with the iPhone 5 made from LEGO bricks.
 
 
+## Model conversion
+ - [Brickify](https://brickify.it) - Converts STL files to LEGO and 3D-printed parts
+ - [Brickr](http://lgg.epfl.ch/publications/2013/lego) - Implementation of the paper "Automatic Generation of Constructable Brick Sculptures" (Eurographics 2013)
+ - [lsculpt](https://code.google.com/archive/p/lsculpt) - LSculpt: Studs-out LEGO® Sculpture
+
+
 ## Add-ons
 
 - [bitbeam](https://github.com/hugs/bitbeam) - LEGO technic compatible wooden beams.
