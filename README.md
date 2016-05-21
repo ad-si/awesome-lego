@@ -75,6 +75,9 @@
 ## Models
 
 - [fuddl/BrickDock](https://github.com/fuddl/BrickDock) - A Dock compatible with the iPhone 5 made from LEGO bricks.
+- [Braiding Machine] - Powered by a single motor and makes ropes & wristband.
+
+[Braiding Machine]: http://www.nico71.fr/braiding-machine-makes-wristband/
 
 
 ## Model conversion
