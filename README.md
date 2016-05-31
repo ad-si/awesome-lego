@@ -142,7 +142,7 @@
 ## Add-ons
 
 - [bitbeam] - LEGO technic compatible wooden beams.
-- [Funky 3D Faces] - Create a miniture version of a real head to fit it on minifigures.
+- [Funky 3D Faces] - Create a miniature version of a real head to fit it on minifigures.
 
 [bitbeam]: https://github.com/hugs/bitbeam
 [Funky 3D Faces]: http://funky3dfaces.com
