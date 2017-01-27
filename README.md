@@ -15,6 +15,7 @@
 - [LeoCAD] - A CAD program for creating virtual LEGO models.
 - [LSculpt] - Triangle mesh to LDraw file converter.
 - [Toybrick] - OpenSCAD module to create bricks.
+- [Stud.io] - Stud.io from BrickLink aims to get as close to the feeling of building with LEGO in real life.
 
 [ldraw]: http://ldraw.org
 [lic]: https://code.google.com/p/lic
@@ -29,6 +30,7 @@
 [LeoCAD]: http://leocad.org
 [LSculpt]: https://code.google.com/p/lsculpt
 [Toybrick]: https://github.com/joewalnes/toybrick
+[Stud.io]: http://studio.bricklink.com/v2/build/studio.page
 
 
 ## Online Editors
