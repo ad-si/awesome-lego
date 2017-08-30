@@ -80,11 +80,13 @@
 - [rioforce/LEGO-Textures] - Textures scanned from real LEGO bricks.
 - [NateJacobs/Brickset-API] - Access LEGO set information using the Brickset API.
 - [Node LDraw] - Node.js library for parsing an LDraw file.
+- [Node Move Hub] - Node.js library for communication with the LEGO Boost Move Hub.
 
 [seankross/lego]: https://github.com/seankross/lego
 [rioforce/LEGO-Textures]: https://github.com/rioforce/LEGO-Textures
 [NateJacobs/Brickset-API]: https://github.com/NateJacobs/Brickset-API
 [Node LDraw]: https://github.com/jsonxr/node-ldraw
+[Node Move Hub]: https://github.com/hobbyquaker/node-movehub
 
 
 ## Competitors
