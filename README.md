@@ -2,11 +2,12 @@
 
 ## CAD
 
+- [BrickLink Studio] - Build, render, and create instructions.
+- [bricksmith] - Virtual Lego modeling for your Macintosh.
 - [ldraw] - Open standard for LEGO CAD programs that allow the user to create virtual LEGO models and scenes.
 - [lic] - Lic is a cross-platform, Python, OpenGL & Qt powered desktop application for creating and editing LEGO instruction books.
 - [Lego Digital Designer] - Design your greatest robot with Lego Digital Designer.
 - [Konstruktor] - A LDraw-compatible CAD for Linux, Windows and Mac OS X.
-- [bricksmith] - Virtual Lego modeling for your Macintosh.
 - [sr3dbuilder] - The most advanced LEGO PC CAD for Technic model.
 - [LDCad] - LDCad is a multiplatform LDraw (virtual LEGO) editor that lets you edit LDraw model documents in real-time.
 - [mlcad] - The ultimative CAD program for creating Lego like building instructions of your own models.
@@ -29,6 +30,7 @@
 [LeoCAD]: http://leocad.org
 [LSculpt]: https://code.google.com/p/lsculpt
 [Toybrick]: https://github.com/joewalnes/toybrick
+[BrickLink Studio]: https://www.bricklink.com/v3/studio/download.page
 
 
 ## Online Editors
@@ -111,12 +113,12 @@
 
 ## Marketplace
 
-- [bricklink] - Unofficial LEGO Marketplace.
+- [BrickLink] - Unofficial LEGO Marketplace.
 - [brickpicker] - LEGO price and investing guide.
 - [Brick Shop] - Online shop for bricks and sets.
 - [LEGO Shop] - Official LEGO online store.
 
-[bricklink]: http://bricklink.com
+[BrickLink]: http://bricklink.com
 [brickpicker]: http://brickpicker.com
 [Brick Shop]: http://brick-shop.de
 [LEGO Shop]: http://shop.lego.com
