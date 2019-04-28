@@ -6,15 +6,19 @@
 - [BrickLink Studio] - Build, render, and create instructions.
 - [bricksmith] - Virtual LEGO modeling (MacOS).
 - [Konstruktor] - A LDraw-compatible CAD (Linux, Windows, MacOS).
-- [LDCad] - LDCad is a multiplatform LDraw (virtual LEGO) editor that lets you edit LDraw model documents in real-time.
-- [ldraw] - Open standard for LEGO CAD programs that allow the user to create virtual LEGO models and scenes.
-- [LEGO Digital Designer] - Design your greatest robot with LEGO Digital Designer.
+- [LDCad] - LDCad is a multiplatform LDraw (virtual LEGO) editor
+    that lets you edit LDraw model documents in real-time.
+- [ldraw] - Open standard for LEGO CAD programs
+    that allow the user to create virtual LEGO models and scenes.
+- [LEGO Digital Designer] - Design your greatest robot.
 - [LeoCAD] - A CAD program for creating virtual LEGO models.
-- [lic] - Lic is a cross-platform, Python, OpenGL & Qt powered desktop application for creating and editing LEGO instruction books.
-- [lpub4] - LPub is a program that allow the production of step by step building instructions for LEGO models created using the LDraw file format.
-- [mlcad] - The ultimative CAD program for creating LEGO like building instructions of your own models.
-- [openldraw] - A CAD program for designing LEGO(R) MOCs.
-- [sr3dbuilder] - The most advanced LEGO PC CAD for Technic model.
+- [lic] - Cross platform, Python, OpenGL & Qt powered desktop application
+    for creating and editing LEGO instruction books.
+- [LPub 4] - Program to produce step by step building instructions
+    for LEGO models created using the LDraw file format.
+- [mlcad] - CAD program to create LEGO like building instructions.
+- [openldraw] - CAD program for designing LEGO MOCs.
+- [sr3dbuilder] - Advanced LEGO PC CAD for Technic models.
 - [Toybrick] - OpenSCAD module to create bricks.
 
 [BlueBrick]: http://bluebrick.lswproject.com
@@ -26,7 +30,7 @@
 [LEGO Digital Designer]: http://ldd.lego.com/de-de
 [LeoCAD]: http://leocad.org
 [lic]: https://code.google.com/p/lic
-[lpub4]: http://lpub4.sourceforge.net
+[LPub 4]: http://lpub4.sourceforge.net
 [mlcad]: http://mlcad.lm-software.com
 [openldraw]: https://github.com/HazenBabcock/openldraw
 [sr3dbuilder]: http://sr3dbuilder.altervista.org
@@ -36,7 +40,8 @@
 ## Online Editors
 
 - [publishyourdesign] - Build virtual creations with dozens types of LEGO pieces.
-- [buildwithchrome] - Build a LEGO model on a 32 x 32 baseplate and share it with everybody on a world map.
+- [buildwithchrome] - Build a LEGO model on a 32 x 32 baseplate
+    and share it with everybody on a world map.
 - [Mecabricks]: http://mecabricks.com - Build your 3D LEGO models online.
 
 [publishyourdesign]: http://publishyourdesign.com/design
@@ -47,13 +52,14 @@
 ## Archives
 
 - [brickset] - Your LEGO set guide.
-- [Rebrickable] - Combine your LEGO sets to create other sets
-- [brickimedia] - An open project to create the largest LEGO fan network on the web
+- [Rebrickable] - Combine your LEGO sets to create other sets.
+- [brickimedia] - An open project to create the largest LEGO fan network.
 	- [brickipedia] -  A collaboratively written free online LEGO encyclopedia.
 	- [brickimedia customs] - Content made by its own contributors.
 	- [LEGO Stories] - Wiki devoted to housing LEGO fanfiction.
 	- [LEGO Ideas] - Wiki for collecting LEGO ideas.
-- [lugnet] - International LEGO Users Group Network and global community of LEGO enthusiasts.
+- [lugnet] - International LEGO Users Group Network
+    and global community of LEGO enthusiasts.
 - [peeron] - Partial listing of the parts in official LEGO sets.
 - [Unofficial Minifigure Catalog] - App with information about all minifigures
     and sets from 1975 to 2015.
@@ -217,11 +223,11 @@
 
 ## Books
 
-[1000 Laser-Hacks for MAKER] - German book series
+- [1000 Laser-Hacks for MAKER][laser-hacks] - German book series
     about photonic experiments with LEGO.
-[Minifigure.org] - Several books about minifigures.
+- [Minifigure.org] - Several books about minifigures.
 
-[1000 Laser-Hacks for MAKER]: https://www.1000laserhacks.uni-osnabrueck.de/startseite.html
+[laser-hacks]: https://www.1000laserhacks.uni-osnabrueck.de/startseite.html
 [Minifigure.org]: http://www.minifigure.org
 
 
