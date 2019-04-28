@@ -75,8 +75,10 @@
 ## Resources
 
 - [Holly-Wood.it] - Tutorials, utilities and software add-ons for LDraw.
+- [LEGO Engineering] - LEGO based engineering for classrooms.
 
 [Holly-Wood.it]: http://holly-wood.it
+[LEGO Engineering]: http://www.legoengineering.com
 
 
 ## Software Libraries
@@ -226,8 +228,10 @@
 ## Articles
 
 - [Price history of LEGO sets][price-history]
+- [State of the art of 3D printing LEGO bricks][printing-bricks]
 
 [price-history]: http://www.realityprose.com/what-happened-with-lego/
+[printing-bricks]: https://hackaday.com/2017/09/08/ive-seen-the-future-and-its-full-of-freakin-huge-bricks/
 
 
 ## Build Manuals
@@ -236,14 +240,21 @@
 - [Domino row building machine][domino]
 - [LEGO 3D Printer] - Building manual for 3D printer made of LEGO bricks.
 - [Lego Music] - Tangible UI to create music from an arrangement of LEGO bricks.
+- [Motorized Pop-Up Book Stand][motorized-book-stand]
 - [myphotonics] - Blueprints for optic and photonic equipment built with LEGO.
 - [Nintendo Switch experiments][nintendo]
 - [Star Racer] - Star Wars racing game.
+- [Ultimate LEGO Soccer Robot][ulsr] - Tech United robot
+    built with LEGO Mindstorms.
+- [Vortex Candy Launcher] - Chocolate throwing machine.
 
 [Chocolate Carving Pantograph]: http://woodgears.ca/pantograph/lego.html
 [domino]: http://woodgears.ca/domino/
 [LEGO 3D Printer]: https://www.instructables.com/id/LEGO-3d-Printer/
 [Lego Music]: https://hackaday.io/project/161277-lego-music
+[motorized-book-stand]: https://jkbrickworks.com/motorized-pop-up-book-stand/
 [myphotonics]: http://myphotonics.eu
 [nintendo]: http://cargocollective.com/vimalpatel/nintendo-switch-experiments
 [Star Racer]: https://tkelcreations.blogspot.com/2018/03/star-racer.html
+[ulsr]: https://hackaday.com/2017/08/12/mindstorms-soccer-robot-inspired-by-real-soccer-robot/
+[Vortex Candy Launcher]: https://jkbrickworks.com/vortex-candy-launcher/
