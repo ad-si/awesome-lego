@@ -75,10 +75,8 @@
 ## Resources
 
 - [Holly-Wood.it] - Tutorials, utilities and software add-ons for LDraw.
-- [myphotonics] - Blueprints for optic and photonic equipment built with LEGO.
 
 [Holly-Wood.it]: http://holly-wood.it
-[myphotonics]: http://myphotonics.eu
 
 
 ## Software Libraries
@@ -133,6 +131,7 @@
 - [Airfix]
 - [best-lock]
 - [Brik.co] - Laptop cases and wall tiles covered with LEGO compatible studs.
+- [Flexo] - Flexible brick system.
 - [Makeblock] - Various building blocks for robotic kits.
 - [Mega Bloks]
 - [Minifigures.com] - Special minifigure designs and service to order
@@ -141,6 +140,7 @@
 [Airfix]: http://airfix.com/uk-en/shop/by-brand/quick-build.html
 [best-lock]: http://best-lock.com
 [Brik.co]: https://www.brik.co
+[Flexo]: https://www.flexo.nz
 [Makeblock]: https://www.makeblock.com
 [Mega Bloks]: https://megabloks.com
 [Minifigures.com]: https://www.minifigures.com/
@@ -221,3 +221,29 @@
 
 [1000 Laser-Hacks for MAKER]: https://www.1000laserhacks.uni-osnabrueck.de/startseite.html
 [Minifigure.org]: http://www.minifigure.org
+
+
+## Articles
+
+- [Price history of LEGO sets][price-history]
+
+[price-history]: http://www.realityprose.com/what-happened-with-lego/
+
+
+## Build Manuals
+
+- [Chocolate Carving Pantograph] - Carve graphics in small chocolate tiles.
+- [Domino row building machine][domino]
+- [LEGO 3D Printer] - Building manual for 3D printer made of LEGO bricks.
+- [Lego Music] - Tangible UI to create music from an arrangement of LEGO bricks.
+- [myphotonics] - Blueprints for optic and photonic equipment built with LEGO.
+- [Nintendo Switch experiments][nintendo]
+- [Star Racer] - Star Wars racing game.
+
+[Chocolate Carving Pantograph]: http://woodgears.ca/pantograph/lego.html
+[domino]: http://woodgears.ca/domino/
+[LEGO 3D Printer]: https://www.instructables.com/id/LEGO-3d-Printer/
+[Lego Music]: https://hackaday.io/project/161277-lego-music
+[myphotonics]: http://myphotonics.eu
+[nintendo]: http://cargocollective.com/vimalpatel/nintendo-switch-experiments
+[Star Racer]: https://tkelcreations.blogspot.com/2018/03/star-racer.html
