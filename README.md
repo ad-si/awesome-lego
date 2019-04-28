@@ -2,40 +2,40 @@
 
 ## CAD
 
+- [BlueBrick] - Layout editor for LEGO exhibitions (Windows).
 - [BrickLink Studio] - Build, render, and create instructions.
-- [bricksmith] - Virtual Lego modeling for your Macintosh.
-- [ldraw] - Open standard for LEGO CAD programs that allow the user to create virtual LEGO models and scenes.
-- [lic] - Lic is a cross-platform, Python, OpenGL & Qt powered desktop application for creating and editing LEGO instruction books.
-- [Lego Digital Designer] - Design your greatest robot with Lego Digital Designer.
-- [Konstruktor] - A LDraw-compatible CAD for Linux, Windows and Mac OS X.
-- [sr3dbuilder] - The most advanced LEGO PC CAD for Technic model.
+- [bricksmith] - Virtual LEGO modeling (MacOS).
+- [Konstruktor] - A LDraw-compatible CAD (Linux, Windows, MacOS).
 - [LDCad] - LDCad is a multiplatform LDraw (virtual LEGO) editor that lets you edit LDraw model documents in real-time.
-- [mlcad] - The ultimative CAD program for creating Lego like building instructions of your own models.
-- [lpub4] - LPub is a program that allow the production of step by step building instructions for LEGO models created using the LDraw file format.
-- [openldraw] - A CAD program for designing LEGO(R) MOCs.
+- [ldraw] - Open standard for LEGO CAD programs that allow the user to create virtual LEGO models and scenes.
+- [LEGO Digital Designer] - Design your greatest robot with LEGO Digital Designer.
 - [LeoCAD] - A CAD program for creating virtual LEGO models.
-- [LSculpt] - Triangle mesh to LDraw file converter.
+- [lic] - Lic is a cross-platform, Python, OpenGL & Qt powered desktop application for creating and editing LEGO instruction books.
+- [lpub4] - LPub is a program that allow the production of step by step building instructions for LEGO models created using the LDraw file format.
+- [mlcad] - The ultimative CAD program for creating LEGO like building instructions of your own models.
+- [openldraw] - A CAD program for designing LEGO(R) MOCs.
+- [sr3dbuilder] - The most advanced LEGO PC CAD for Technic model.
 - [Toybrick] - OpenSCAD module to create bricks.
 
-[ldraw]: http://ldraw.org
-[lic]: https://code.google.com/p/lic
-[Lego Digital Designer]: http://ldd.lego.com/de-de
-[Konstruktor]: https://github.com/segfault87/Konstruktor
-[bricksmith]: http://bricksmith.sourceforge.net
-[sr3dbuilder]: http://sr3dbuilder.altervista.org
-[LDCad]: http://www.melkert.net/LDCad
-[mlcad]: http://mlcad.lm-software.com
-[lpub4]: http://lpub4.sourceforge.net
-[openldraw]: https://github.com/HazenBabcock/openldraw
-[LeoCAD]: http://leocad.org
-[LSculpt]: https://code.google.com/p/lsculpt
-[Toybrick]: https://github.com/joewalnes/toybrick
+[BlueBrick]: http://bluebrick.lswproject.com
 [BrickLink Studio]: https://www.bricklink.com/v3/studio/download.page
+[bricksmith]: http://bricksmith.sourceforge.net
+[Konstruktor]: https://github.com/segfault87/Konstruktor
+[LDCad]: http://www.melkert.net/LDCad
+[ldraw]: http://ldraw.org
+[LEGO Digital Designer]: http://ldd.lego.com/de-de
+[LeoCAD]: http://leocad.org
+[lic]: https://code.google.com/p/lic
+[lpub4]: http://lpub4.sourceforge.net
+[mlcad]: http://mlcad.lm-software.com
+[openldraw]: https://github.com/HazenBabcock/openldraw
+[sr3dbuilder]: http://sr3dbuilder.altervista.org
+[Toybrick]: https://github.com/joewalnes/toybrick
 
 
 ## Online Editors
 
-- [publishyourdesign] - Build virtual creations with dozens types of Lego pieces.
+- [publishyourdesign] - Build virtual creations with dozens types of LEGO pieces.
 - [buildwithchrome] - Build a LEGO model on a 32 x 32 baseplate and share it with everybody on a world map.
 - [Mecabricks]: http://mecabricks.com - Build your 3D LEGO models online.
 
@@ -47,7 +47,7 @@
 ## Archives
 
 - [brickset] - Your LEGO set guide.
-- [rebrickable] - Combine your LEGO sets to create other sets
+- [Rebrickable] - Combine your LEGO sets to create other sets
 - [brickimedia] - An open project to create the largest LEGO fan network on the web
 	- [brickipedia] -  A collaboratively written free online LEGO encyclopedia.
 	- [brickimedia customs] - Content made by its own contributors.
@@ -58,7 +58,7 @@
 - [Let's build it again] - Online LEGO building instructions.
 
 [brickset]: http://brickset.com
-[rebrickable]: http://rebrickable.com
+[Rebrickable]: https://rebrickable.com
 [brickimedia]: http://brickimedia.org
 [brickipedia]: http://en.brickimedia.org
 [brickimedia customs]: http://customs.brickimedia.org
@@ -80,17 +80,47 @@
 
 ## Software Libraries
 
-- [seankross/lego] - R data package featuring every Lego set from 1970 to 2014
+- [BrickMosaic] - Transform a photo to a bricks mosaic (Windows, Linux, MacOS).
+- [brickowl2rebrickable] - Tool to convert [BrickOwl] orders to
+    [Rebrickable] CSV files (Windows, Linux, MacOS).
+- [BrickUtils] - Tool to build your brick catalog and check if you can build
+    a model created with LDD or LDraw.
+- [LD Pattern Creator] - Vector based texture editor for
+    decorated LDraw parts (Windows).
+    Exports a list of bricks as a BrickLink XML file (Windows, Linux, MacOS).
+- [LDD to Ai Swatches] - Script to convert LEGO Digital Designer Materials
+    to Adobe Illustrator Color Swatches (ASE).
+- [LDMakeList] - Tool to create the list of available LDraw parts (Windows).
+- [LDR Importer] - App to import LDraw and LDraw compatible parts and models
+    into Blender (including proper mesh and materials) (Windows, Linux, MacOS).
+- [LDView] - Real-time 3D viewer for LDraw models (Windows, Linux, MacOS).
+- [LEGOCAD Loader] - Python script that creates parts lists from
+    LEGOLDD/LXF, LDR, MPD files (Windows, Linux, MacOS).
+- [LSynth] - Tool to add complicated flexible hoses, bands, chains, and treads
+    to the LDraw files you make with LDraw CADs (Windows, MacOS).
+- [Minifig SVG Decals] - Collection of SVG files for use as decals on minifigs.
+- [NateJacobs/Brickset-API] - Get LEGO set information using the Brickset API.
+- [Node LDraw] - Node.js library to parse an LDraw file.
+- [Node Move Hub] - Node.js library to communicate with the LEGO Boost Move Hub.
 - [rioforce/LEGO-Textures] - Textures scanned from real LEGO bricks.
-- [NateJacobs/Brickset-API] - Access LEGO set information using the Brickset API.
-- [Node LDraw] - Node.js library for parsing an LDraw file.
-- [Node Move Hub] - Node.js library for communication with the LEGO Boost Move Hub.
+- [seankross/lego] - R data package featuring every LEGO set from 1970 to 2014
 
-[seankross/lego]: https://github.com/seankross/lego
-[rioforce/LEGO-Textures]: https://github.com/rioforce/LEGO-Textures
+[BrickMosaic]: http://sourceforge.net/projects/brickmosaic/
+[brickowl2rebrickable]: https://github.com/dgrant/brickowl2rebrickable
+[BrickUtils]: http://sourceforge.net/projects/brickutils/
+[LD Pattern Creator]: http://sourceforge.net/projects/patterncreator/
+[LDD to Ai Swatches]: https://github.com/NickAb/ldd-to-ai-swatches
+[LDMakeList]: https://code.google.com/p/ldmakelist/
+[LDR Importer]: https://github.com/le717/LDR-Importer
+[LDView]: http://ldview.sourceforge.net
+[LEGOCAD Loader]: https://github.com/someidiot/lego-cad-loader
+[LSynth]: http://lsynth.sourceforge.net
+[Minifig SVG Decals]: https://github.com/jpgerdeman/minifig-svg-decals
 [NateJacobs/Brickset-API]: https://github.com/NateJacobs/Brickset-API
 [Node LDraw]: https://github.com/jsonxr/node-ldraw
 [Node Move Hub]: https://github.com/hobbyquaker/node-movehub
+[rioforce/LEGO-Textures]: https://github.com/rioforce/LEGO-Textures
+[seankross/lego]: https://github.com/seankross/lego
 
 
 ## Competitors
@@ -117,11 +147,13 @@
 ## Marketplace
 
 - [BrickLink] - Unofficial LEGO Marketplace.
+- [BrickOwl] - Marketplace to buy and sell LEGO parts, minifigures and sets.
 - [brickpicker] - LEGO price and investing guide.
 - [Brick Shop] - Online shop for bricks and sets.
 - [LEGO Shop] - Official LEGO online store.
 
 [BrickLink]: http://bricklink.com
+[BrickOwl]: https://brickowl.com
 [brickpicker]: http://brickpicker.com
 [Brick Shop]: http://brick-shop.de
 [LEGO Shop]: http://shop.lego.com
@@ -141,11 +173,11 @@
 - [Brickify] - Converts STL files to LEGO and 3D-printed parts
 - [Brickr] - Implementation of the paper
     "Automatic Generation of Constructable Brick Sculptures" (Eurographics 2013)
-- [lsculpt] - LSculpt: Studs-out LEGO® Sculpture
+- [LSculpt] - Triangle mesh to LDraw file converter.
 
 [Brickify]: https://brickify.it
 [Brickr]: http://lgg.epfl.ch/publications/2013/lego
-[lsculpt]: https://code.google.com/archive/p/lsculpt
+[LSculpt]: https://code.google.com/archive/p/lsculpt
 
 
 ## Add-ons
