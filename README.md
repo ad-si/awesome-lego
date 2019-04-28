@@ -55,6 +55,8 @@
 	- [LEGO Ideas] - Wiki for collecting LEGO ideas.
 - [lugnet] - International LEGO Users Group Network and global community of LEGO enthusiasts.
 - [peeron] - Partial listing of the parts in official LEGO sets.
+- [Unofficial Minifigure Catalog] - App with information about all minifigures
+    and sets from 1975 to 2015.
 - [Let's build it again] - Online LEGO building instructions.
 
 [brickset]: http://brickset.com
@@ -66,6 +68,7 @@
 [LEGO Ideas]: http://ideas.brickimedia.org
 [lugnet]: http://lugnet.com
 [peeron]: http://peeron.com
+[Unofficial Minifigure Catalog]: http://www.minifigure.org/application/
 [Let's build it again]: http://letsbuilditagain.com
 
 
@@ -96,6 +99,7 @@
 - [LDView] - Real-time 3D viewer for LDraw models (Windows, Linux, MacOS).
 - [LEGOCAD Loader] - Python script that creates parts lists from
     LEGOLDD/LXF, LDR, MPD files (Windows, Linux, MacOS).
+- [Legofy] - Make images look as if they are made out of 1x1 LEGO bricks.
 - [LSynth] - Tool to add complicated flexible hoses, bands, chains, and treads
     to the LDraw files you make with LDraw CADs (Windows, MacOS).
 - [Minifig SVG Decals] - Collection of SVG files for use as decals on minifigs.
@@ -114,6 +118,7 @@
 [LDR Importer]: https://github.com/le717/LDR-Importer
 [LDView]: http://ldview.sourceforge.net
 [LEGOCAD Loader]: https://github.com/someidiot/lego-cad-loader
+[Legofy]: https://github.com/JuanPotato/Legofy
 [LSynth]: http://lsynth.sourceforge.net
 [Minifig SVG Decals]: https://github.com/jpgerdeman/minifig-svg-decals
 [NateJacobs/Brickset-API]: https://github.com/NateJacobs/Brickset-API
@@ -168,7 +173,7 @@
 [Braiding Machine]: http://nico71.fr/braiding-machine-makes-wristband
 
 
-## Model conversion
+## Model Conversion
 
 - [Brickify] - Converts STL files to LEGO and 3D-printed parts
 - [Brickr] - Implementation of the paper
@@ -205,5 +210,7 @@
 
 [1000 Laser-Hacks for MAKER] - German book series
     about photonic experiments with LEGO.
+[Minifigure.org] - Several books about minifigures.
 
 [1000 Laser-Hacks for MAKER]: https://www.1000laserhacks.uni-osnabrueck.de/startseite.html
+[Minifigure.org]: http://www.minifigure.org
