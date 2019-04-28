@@ -132,12 +132,16 @@
 
 - [Airfix]
 - [best-lock]
+- [Brik.co] - Laptop cases and wall tiles covered with LEGO compatible studs.
+- [Makeblock] - Various building blocks for robotic kits.
 - [Mega Bloks]
 - [Minifigures.com] - Special minifigure designs and service to order
     custom made minifigures.
 
 [Airfix]: http://airfix.com/uk-en/shop/by-brand/quick-build.html
 [best-lock]: http://best-lock.com
+[Brik.co]: https://www.brik.co
+[Makeblock]: https://www.makeblock.com
 [Mega Bloks]: https://megabloks.com
 [Minifigures.com]: https://www.minifigures.com/
 
