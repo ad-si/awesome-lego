@@ -72,8 +72,10 @@
 ## Resources
 
 - [Holly-Wood.it] - Tutorials, utilities and software add-ons for LDraw.
+- [myphotonics] - Blueprints for optic and photonic equipment built with LEGO.
 
 [Holly-Wood.it]: http://holly-wood.it
+[myphotonics]: http://myphotonics.eu
 
 
 ## Software Libraries
@@ -105,7 +107,8 @@
 ## Links
 
 - [rebrickable.com/about] - Link collection at the bottom of the page.
-- [bricks stackexchange] - Question and answer site for LEGO and building block enthusiasts.
+- [bricks stackexchange] - Question and answer site
+    for LEGO and building block enthusiasts.
 
 [rebrickable.com/about]: http://rebrickable.com/about
 [bricks stackexchange]: http://bricks.stackexchange.com
@@ -134,9 +137,11 @@
 
 
 ## Model conversion
- - [Brickify] - Converts STL files to LEGO and 3D-printed parts
- - [Brickr] - Implementation of the paper "Automatic Generation of Constructable Brick Sculptures" (Eurographics 2013)
- - [lsculpt] - LSculpt: Studs-out LEGO® Sculpture
+
+- [Brickify] - Converts STL files to LEGO and 3D-printed parts
+- [Brickr] - Implementation of the paper
+    "Automatic Generation of Constructable Brick Sculptures" (Eurographics 2013)
+- [lsculpt] - LSculpt: Studs-out LEGO® Sculpture
 
 [Brickify]: https://brickify.it
 [Brickr]: http://lgg.epfl.ch/publications/2013/lego
@@ -146,7 +151,8 @@
 ## Add-ons
 
 - [bitbeam] - LEGO technic compatible wooden beams.
-- [Funky 3D Faces] - Create a miniature version of a real head to fit it on minifigures.
+- [Funky 3D Faces] - Create a miniature version of a real head
+    to fit it on minifigures.
 
 [bitbeam]: https://github.com/hugs/bitbeam
 [Funky 3D Faces]: http://funky3dfaces.com
@@ -161,3 +167,11 @@
 [LEGO]: https://youtube.com/user/LEGO
 [akiyuky]: https://youtube.com/user/akiyuky
 [MlCHAELHlCKOXFilms]: https://youtube.com/user/MlCHAELHlCKOXFilms
+
+
+## Books
+
+[1000 Laser-Hacks for MAKER] - German book series
+    about photonic experiments with LEGO.
+
+[1000 Laser-Hacks for MAKER]: https://www.1000laserhacks.uni-osnabrueck.de/startseite.html
