@@ -130,13 +130,16 @@
 
 ## Competitors
 
+- [Airfix]
 - [best-lock]
 - [Mega Bloks]
-- [Airfix]
+- [Minifigures.com] - Special minifigure designs and service to order
+    custom made minifigures.
 
+[Airfix]: http://airfix.com/uk-en/shop/by-brand/quick-build.html
 [best-lock]: http://best-lock.com
 [Mega Bloks]: https://megabloks.com
-[Airfix]: http://airfix.com/uk-en/shop/by-brand/quick-build.html
+[Minifigures.com]: https://www.minifigures.com/
 
 
 ## Links
