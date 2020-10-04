@@ -109,6 +109,7 @@
 - [LSynth] - Tool to add complicated flexible hoses, bands, chains, and treads
     to the LDraw files you make with LDraw CADs (Windows, MacOS).
 - [Minifig SVG Decals] - Collection of SVG files for use as decals on minifigs.
+- [MILSgen Terraforming] - Workflow & script to create large scale landscapes from MILSgen terrain modules.
 - [NateJacobs/Brickset-API] - Get LEGO set information using the Brickset API.
 - [Node LDraw] - Node.js library to parse an LDraw file.
 - [Node Move Hub] - Node.js library to communicate with the LEGO Boost Move Hub.
@@ -127,6 +128,7 @@
 [Legofy]: https://github.com/JuanPotato/Legofy
 [LSynth]: http://lsynth.sourceforge.net
 [Minifig SVG Decals]: https://github.com/jpgerdeman/minifig-svg-decals
+[MILSgen Terraforming]: https://github.com/Unitron-Galactic/Tools-Workflows/tree/master/Terraforming%201
 [NateJacobs/Brickset-API]: https://github.com/NateJacobs/Brickset-API
 [Node LDraw]: https://github.com/jsonxr/node-ldraw
 [Node Move Hub]: https://github.com/hobbyquaker/node-movehub
@@ -194,10 +196,12 @@
 - [Brickr] - Implementation of the paper
     "Automatic Generation of Constructable Brick Sculptures" (Eurographics 2013)
 - [LSculpt] - Triangle mesh to LDraw file converter.
+- [MILSgen] - Converts heightmaps to LDraw .ldr files
 
 [Brickify]: https://brickify.it
 [Brickr]: http://lgg.epfl.ch/publications/2013/lego
 [LSculpt]: https://code.google.com/archive/p/lsculpt
+[MILSgen]:http://www.legoism.info/2013/12/milsgen.html
 
 
 ## Add-ons
@@ -246,6 +250,7 @@
 - [Domino row building machine][domino]
 - [LEGO 3D Printer] - Building manual for 3D printer made of LEGO bricks.
 - [Lego Music] - Tangible UI to create music from an arrangement of LEGO bricks.
+- [MILS System] - Modular integrated Landscaping System.
 - [Motorized Pop-Up Book Stand][motorized-book-stand]
 - [myphotonics] - Blueprints for optic and photonic equipment built with LEGO.
 - [Nintendo Switch experiments][nintendo]
@@ -258,6 +263,7 @@
 [domino]: http://woodgears.ca/domino/
 [LEGO 3D Printer]: https://www.instructables.com/id/LEGO-3d-Printer/
 [Lego Music]: https://hackaday.io/project/161277-lego-music
+[MILS System]: http://www.abellon.net/MILS/
 [motorized-book-stand]: https://jkbrickworks.com/motorized-pop-up-book-stand/
 [myphotonics]: http://myphotonics.eu
 [nintendo]: http://cargocollective.com/vimalpatel/nintendo-switch-experiments
