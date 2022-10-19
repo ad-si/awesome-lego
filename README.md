@@ -66,6 +66,7 @@
     and sets from 1975 to 2015.
 - [Let's build it again] - Online LEGO building instructions.
 
+[Brickfact]: https://brickfact.com
 [brickset]: http://brickset.com
 [Rebrickable]: https://rebrickable.com
 [brickimedia]: http://brickimedia.org
@@ -77,7 +78,6 @@
 [peeron]: http://peeron.com
 [Unofficial Minifigure Catalog]: http://www.minifigure.org/application/
 [Let's build it again]: http://letsbuilditagain.com
-[Brickfact]: https://brickfact.com
 
 
 ## Resources
