@@ -51,6 +51,7 @@
 
 ## Archives
 
+- [Brickfact] - Lego database with price charts
 - [brickset] - Your LEGO set guide.
 - [Rebrickable] - Combine your LEGO sets to create other sets.
 - [brickimedia] - An open project to create the largest LEGO fan network.
@@ -64,7 +65,6 @@
 - [Unofficial Minifigure Catalog] - App with information about all minifigures
     and sets from 1975 to 2015.
 - [Let's build it again] - Online LEGO building instructions.
-- [Brickfact] - Lego database with price charts
 
 [brickset]: http://brickset.com
 [Rebrickable]: https://rebrickable.com
@@ -77,7 +77,7 @@
 [peeron]: http://peeron.com
 [Unofficial Minifigure Catalog]: http://www.minifigure.org/application/
 [Let's build it again]: http://letsbuilditagain.com
-[Brickfact]: http://brickfact.com/
+[Brickfact]: https://brickfact.com
 
 
 ## Resources
