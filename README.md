@@ -51,6 +51,7 @@
 
 ## Archives
 
+- [Brickfact] - LEGO database with price charts.
 - [brickset] - Your LEGO set guide.
 - [Rebrickable] - Combine your LEGO sets to create other sets.
 - [brickimedia] - An open project to create the largest LEGO fan network.
@@ -65,6 +66,7 @@
     and sets from 1975 to 2015.
 - [Let's build it again] - Online LEGO building instructions.
 
+[Brickfact]: https://brickfact.com
 [brickset]: http://brickset.com
 [Rebrickable]: https://rebrickable.com
 [brickimedia]: http://brickimedia.org
