@@ -51,7 +51,7 @@
 
 ## Archives
 
-- [Brickfact] - Lego database with price charts
+- [Brickfact] - LEGO database with price charts.
 - [brickset] - Your LEGO set guide.
 - [Rebrickable] - Combine your LEGO sets to create other sets.
 - [brickimedia] - An open project to create the largest LEGO fan network.
