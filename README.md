@@ -175,12 +175,13 @@
 - [brickpicker] - LEGO price and investing guide.
 - [Brick Shop] - Online shop for bricks and sets.
 - [LEGO Shop] - Official LEGO online store.
+- [LEGO SETS] - Top 10 Biggest Lego Sets.
 
 [BrickLink]: http://bricklink.com
 [BrickOwl]: https://brickowl.com
 [brickpicker]: http://brickpicker.com
 [Brick Shop]: http://brick-shop.de
-[LEGO Shop]: http://shop.lego.com
+[LEGO SETS]: https://www.folotop.com/top-10-biggest-lego-sets/
 
 
 ## Models
