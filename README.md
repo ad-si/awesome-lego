@@ -1,5 +1,27 @@
 # Awesome LEGO
 
+A curated list of awesome LEGO software, archives, links, and other resources.
+
+<!-- toc -->
+
+- [CAD](#cad)
+- [Online Editors](#online-editors)
+- [Archives](#archives)
+- [Resources](#resources)
+- [Software Libraries](#software-libraries)
+- [Competitors](#competitors)
+- [Links](#links)
+- [Marketplace](#marketplace)
+- [Models](#models)
+- [Model Conversion](#model-conversion)
+- [Add-ons](#add-ons)
+- [YouTube Channels](#youtube-channels)
+- [Books](#books)
+- [Articles](#articles)
+- [Build Manuals](#build-manuals)
+
+<!-- tocstop -->
+
 ## CAD
 
 - [BlueBrick] - Layout editor for LEGO exhibitions (Windows).
