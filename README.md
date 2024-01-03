@@ -126,6 +126,7 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 - [LDMakeList] - Tool to create the list of available LDraw parts (Windows).
 - [LDR Importer] - App to import LDraw and LDraw compatible parts and models
     into Blender (including proper mesh and materials) (Windows, Linux, MacOS).
+- [LDraw.rs] - Library for manipulating and rendering LDraw model files in Rust.
 - [LDView] - Real-time 3D viewer for LDraw models (Windows, Linux, MacOS).
 - [LEGOCAD Loader] - Python script that creates parts lists from
     LEGOLDD/LXF, LDR, MPD files (Windows, Linux, MacOS).
@@ -147,6 +148,7 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 [LDD to Ai Swatches]: https://github.com/NickAb/ldd-to-ai-swatches
 [LDMakeList]: https://code.google.com/p/ldmakelist/
 [LDR Importer]: https://github.com/le717/LDR-Importer
+[LDraw.rs]: https://github.com/segfault87/ldraw.rs
 [LDView]: http://ldview.sourceforge.net
 [LEGOCAD Loader]: https://github.com/someidiot/lego-cad-loader
 [Legofy]: https://github.com/JuanPotato/Legofy
@@ -209,9 +211,14 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 
 - [fuddl/BrickDock] - A Dock compatible with the iPhone 5 made from LEGO bricks.
 - [Braiding Machine] - Powered by a single motor and makes ropes & wristband.
+- [Lego A4 Plotter] - 2D plotter made with LEGO Technic and Mindstorms.
+- [LegoMicroscope] - Simple to build microscope
+    with no need for precision optics or 3D printed parts.
 
 [fuddl/BrickDock]: https://github.com/fuddl/BrickDock
 [Braiding Machine]: http://nico71.fr/braiding-machine-makes-wristband
+[Lego A4 Plotter]: https://www.youtube.com/watch?v=fGQu90EPVAM
+[LegoMicroscope]: https://github.com/tobetz/LegoMicroscope
 
 
 ## Model Conversion
@@ -263,13 +270,16 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 
 - [Price history of LEGO sets][price-history]
 - [State of the art of 3D printing LEGO bricks][printing-bricks]
+- [Has LEGO ever been used in an assembly line or a manufacturing process?][asm]
 
 [price-history]: http://www.realityprose.com/what-happened-with-lego/
 [printing-bricks]: https://hackaday.com/2017/09/08/ive-seen-the-future-and-its-full-of-freakin-huge-bricks/
+[asm]: https://bricks.stackexchange.com/questions/11252
 
 
 ## Build Manuals
 
+- [Brickit] - App to scan your LEGO bricks and find build instructions.
 - [Chocolate Carving Pantograph] - Carve graphics in small chocolate tiles.
 - [Domino row building machine][domino]
 - [LEGO 3D Printer] - Building manual for 3D printer made of LEGO bricks.
@@ -283,6 +293,7 @@ A curated list of awesome LEGO software, archives, links, and other resources.
     built with LEGO Mindstorms.
 - [Vortex Candy Launcher] - Chocolate throwing machine.
 
+[Brickit]: https://brickit.app
 [Chocolate Carving Pantograph]: http://woodgears.ca/pantograph/lego.html
 [domino]: http://woodgears.ca/domino/
 [LEGO 3D Printer]: https://www.instructables.com/id/LEGO-3d-Printer/
