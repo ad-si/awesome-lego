@@ -17,7 +17,8 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 - [Add-ons](#add-ons)
 - [YouTube Channels](#youtube-channels)
 - [Books](#books)
-- [Articles](#articles)
+- [Blogs](#blogs)
+  - [Articles](#articles)
 - [Build Manuals](#build-manuals)
 
 <!-- tocstop -->
@@ -32,16 +33,13 @@ A curated list of awesome LEGO software, archives, links, and other resources.
     that lets you edit LDraw model documents in real-time.
 - [ldraw] - Open standard for LEGO CAD programs
     that allow the user to create virtual LEGO models and scenes.
-- [LEGO Digital Designer] - Design your greatest robot.
 - [LeoCAD] - A CAD program for creating virtual LEGO models.
-- [lic] - Cross platform, Python, OpenGL & Qt powered desktop application
-    for creating and editing LEGO instruction books.
 - [LPub 4] - Program to produce step by step building instructions
     for LEGO models created using the LDraw file format.
 - [mlcad] - CAD program to create LEGO like building instructions.
 - [openldraw] - CAD program for designing LEGO MOCs.
-- [sr3dbuilder] - Advanced LEGO PC CAD for Technic models.
 - [Toybrick] - OpenSCAD module to create bricks.
+- [Web Lic] - Create instruction books from LDraw models.
 
 [BlueBrick]: https://bluebrick.lswproject.com
 [BrickLink Studio]: https://www.bricklink.com/v3/studio/download.page
@@ -49,24 +47,20 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 [Konstruktor]: https://github.com/segfault87/Konstruktor
 [LDCad]: https://www.melkert.net/LDCad
 [ldraw]: https://ldraw.org
-[LEGO Digital Designer]: https://ldd.lego.com/de-de
 [LeoCAD]: https://leocad.org
-[lic]: https://code.google.com/p/lic
 [LPub 4]: https://lpub4.sourceforge.net
-[mlcad]: https://mlcad.lm-software.com
+[mlcad]: http://mlcad.lm-software.com/
 [openldraw]: https://github.com/HazenBabcock/openldraw
-[sr3dbuilder]: https://sr3dbuilder.altervista.org
 [Toybrick]: https://github.com/joewalnes/toybrick
+[Web Lic]: https://github.com/remig/web_lic
 
 
 ## Online Editors
 
-- [publishyourdesign] - Build virtual creations with dozens types of LEGO pieces.
 - [buildwithchrome] - Build a LEGO model on a 32 x 32 baseplate
     and share it with everybody on a world map.
-- [Mecabricks]: https://mecabricks.com - Build your 3D LEGO models online.
+- [Mecabricks] - Build your 3D LEGO models online.
 
-[publishyourdesign]: https://publishyourdesign.com/design
 [buildwithchrome]: https://www.buildwithchrome.com
 [Mecabricks]: https://mecabricks.com
 
@@ -76,11 +70,10 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 - [Brickfact] - LEGO database with price charts.
 - [brickset] - Your LEGO set guide.
 - [Rebrickable] - Combine your LEGO sets to create other sets.
-- [brickimedia] - An open project to create the largest LEGO fan network.
-	- [brickipedia] -  A collaboratively written free online LEGO encyclopedia.
-	- [brickimedia customs] - Content made by its own contributors.
-	- [LEGO Stories] - Wiki devoted to housing LEGO fanfiction.
-	- [LEGO Ideas] - Wiki for collecting LEGO ideas.
+- [brickipedia] - A collaboratively written free online LEGO wiki.
+	- [Customs] - Content made by its own contributors.
+	- [Stories] - LEGO fan-fiction.
+	- [Ideas] - Collection of LEGO ideas.
 - [lugnet] - International LEGO Users Group Network
     and global community of LEGO enthusiasts.
 - [peeron] - Partial listing of the parts in official LEGO sets.
@@ -91,13 +84,12 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 [Brickfact]: https://brickfact.com
 [brickset]: https://brickset.com
 [Rebrickable]: https://rebrickable.com
-[brickimedia]: https://brickimedia.org
-[brickipedia]: https://en.brickimedia.orgb
-[brickimedia customs]: https://customs.brickimedia.org
-[LEGO Stories]: https://stories.brickimedia.org
-[LEGO Ideas]: https://ideas.brickimedia.org
+[brickipedia]: https://en.brickimedia.org/wiki/Main_Page
+[Customs]: https://en.brickimedia.org/wiki/Category:Customs
+[Stories]: https://en.brickimedia.org/wiki/Category:Stories
+[Ideas]: https://en.brickimedia.org/wiki/Category:Ideas
 [lugnet]: https://lugnet.com
-[peeron]: https://peeron.com
+[peeron]: http://www.peeron.com/
 [Unofficial Minifigure Catalog]: https://www.minifigure.org/application/
 [Let's build it again]: https://letsbuilditagain.com
 
@@ -105,10 +97,8 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 ## Resources
 
 - [Holly-Wood.it] - Tutorials, utilities and software add-ons for LDraw.
-- [LEGO Engineering] - LEGO based engineering for classrooms.
 
-[Holly-Wood.it]: https://holly-wood.it
-[LEGO Engineering]: https://www.legoengineering.com
+[Holly-Wood.it]: http://www.holly-wood.it/
 
 
 ## Software Libraries
@@ -164,7 +154,7 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 
 ## Competitors
 
-- [Airfix]
+- [Airfix] - Quickbuild push-together model kits.
 - [best-lock]
 - [Brik.co] - Laptop cases and wall tiles covered with LEGO compatible studs.
 - [Flexo] - Flexible brick system.
@@ -173,8 +163,8 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 - [Minifigures.com] - Special minifigure designs and service to order
     custom made minifigures.
 
-[Airfix]: https://airfix.com/uk-en/shop/by-brand/quick-build.html
-[best-lock]: https://best-lock.com
+[Airfix]: https://uk.airfix.com/shop/quick-build
+[best-lock]: http://www.best-lock.com/
 [Brik.co]: https://www.brik.co
 [Flexo]: https://www.flexo.nz
 [Makeblock]: https://www.makeblock.com
@@ -229,10 +219,10 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 - [LSculpt] - Triangle mesh to LDraw file converter.
 - [MILSgen] - Converts heightmaps to LDraw .ldr files
 
-[Brickify]: https://brickify.it
+[Brickify]: https://github.com/ad-si/brickify
 [Brickr]: https://lgg.epfl.ch/publications/2013/lego
 [LSculpt]: https://code.google.com/archive/p/lsculpt
-[MILSgen]:https://www.legoism.info/2013/12/milsgen.html
+[MILSgen]: http://www.legoism.info/2013/12/milsgen.html
 
 
 ## Add-ons
@@ -266,7 +256,14 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 [Minifigure.org]: https://www.minifigure.org
 
 
-## Articles
+## Blogs
+
+- [Legoism] - Blog about LEGO.
+
+[Legoism]: http://www.legoism.info
+
+
+### Articles
 
 - [Price history of LEGO sets][price-history]
 - [State of the art of 3D printing LEGO bricks][printing-bricks]
@@ -300,7 +297,7 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 [Lego Music]: https://hackaday.io/project/161277-lego-music
 [MILS System]: https://www.abellon.net/MILS/
 [motorized-book-stand]: https://jkbrickworks.com/motorized-pop-up-book-stand/
-[myphotonics]: https://myphotonics.eu
+[myphotonics]: https://www.ufp.uni-osnabrueck.de/en/education/myphotonics.html
 [nintendo]: https://cargocollective.com/vimalpatel/nintendo-switch-experiments
 [Star Racer]: https://tkelcreations.blogspot.com/2018/03/star-racer.html
 [ulsr]: https://hackaday.com/2017/08/12/mindstorms-soccer-robot-inspired-by-real-soccer-robot/
