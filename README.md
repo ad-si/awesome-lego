@@ -96,8 +96,10 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 
 ## Resources
 
+- [awesome-lego-machine-learning] - A curated list of awesome LEGO machine learning resources.
 - [Holly-Wood.it] - Tutorials, utilities and software add-ons for LDraw.
 
+[awesome-lego-machine-learning]: https://github.com/360er0/awesome-lego-machine-learning
 [Holly-Wood.it]: http://www.holly-wood.it/
 
 
