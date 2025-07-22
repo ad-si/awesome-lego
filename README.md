@@ -100,7 +100,7 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 - [Holly-Wood.it] - Tutorials, utilities and software add-ons for LDraw.
 
 [awesome-lego-machine-learning]: https://github.com/360er0/awesome-lego-machine-learning
-[Holly-Wood.it]: http://www.holly-wood.it/
+[Holly-Wood.it]: https://www.holly-wood.it/
 
 
 ## Software Libraries
@@ -120,8 +120,6 @@ A curated list of awesome LEGO software, archives, links, and other resources.
     into Blender (including proper mesh and materials) (Windows, Linux, MacOS).
 - [LDraw.rs] - Library for manipulating and rendering LDraw model files in Rust.
 - [LDView] - Real-time 3D viewer for LDraw models (Windows, Linux, MacOS).
-- [LEGOCAD Loader] - Python script that creates parts lists from
-    LEGOLDD/LXF, LDR, MPD files (Windows, Linux, MacOS).
 - [Legofy] - Make images look as if they are made out of 1x1 LEGO bricks.
 - [LSynth] - Tool to add complicated flexible hoses, bands, chains, and treads
     to the LDraw files you make with LDraw CADs (Windows, MacOS).
@@ -142,7 +140,6 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 [LDR Importer]: https://github.com/le717/LDR-Importer
 [LDraw.rs]: https://github.com/segfault87/ldraw.rs
 [LDView]: https://ldview.sourceforge.net
-[LEGOCAD Loader]: https://github.com/someidiot/lego-cad-loader
 [Legofy]: https://github.com/JuanPotato/Legofy
 [LSynth]: https://lsynth.sourceforge.net
 [Minifig SVG Decals]: https://github.com/jpgerdeman/minifig-svg-decals
@@ -189,13 +186,11 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 - [BrickLink] - Unofficial LEGO Marketplace.
 - [BrickOwl] - Marketplace to buy and sell LEGO parts, minifigures and sets.
 - [brickpicker] - LEGO price and investing guide.
-- [Brick Shop] - Online shop for bricks and sets.
 - [LEGO Shop] - Official LEGO online store.
 
 [BrickLink]: https://bricklink.com
 [BrickOwl]: https://brickowl.com
 [brickpicker]: https://brickpicker.com
-[Brick Shop]: https://brick-shop.de
 [LEGO Shop]: https://shop.lego.com
 
 
@@ -224,17 +219,14 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 [Brickify]: https://github.com/ad-si/brickify
 [Brickr]: https://lgg.epfl.ch/publications/2013/lego
 [LSculpt]: https://code.google.com/archive/p/lsculpt
-[MILSgen]: http://www.legoism.info/2013/12/milsgen.html
+[MILSgen]: https://github.com/otonribic/milsgen
 
 
 ## Add-ons
 
 - [bitbeam] - LEGO technic compatible wooden beams.
-- [Funky 3D Faces] - Create a miniature version of a real head
-    to fit it on minifigures.
 
 [bitbeam]: https://github.com/hugs/bitbeam
-[Funky 3D Faces]: https://funky3dfaces.com
 
 
 ## YouTube Channels
@@ -258,20 +250,13 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 [Minifigure.org]: https://www.minifigure.org
 
 
-## Blogs
-
-- [Legoism] - Blog about LEGO.
-
-[Legoism]: http://www.legoism.info
-
-
 ### Articles
 
 - [Price history of LEGO sets][price-history]
 - [State of the art of 3D printing LEGO bricks][printing-bricks]
 - [Has LEGO ever been used in an assembly line or a manufacturing process?][asm]
 
-[price-history]: https://www.realityprose.com/what-happened-with-lego/
+[price-history]: https://web.archive.org/web/20240708123806/https://therealityprose.wordpress.com/2013/01/17/what_happened_with_lego/
 [printing-bricks]: https://hackaday.com/2017/09/08/ive-seen-the-future-and-its-full-of-freakin-huge-bricks/
 [asm]: https://bricks.stackexchange.com/questions/11252
 

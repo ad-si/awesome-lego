@@ -11,5 +11,5 @@ jobs:
       - name: Link Checker
         uses: lycheeverse/lychee-action@v1
         with:
-          args: --verbose --no-progress --require-https README.md
+          args: --verbose --no-progress --require-https --exclude 'https://bricks.stackexchange.com/*' README.md
           fail: true
