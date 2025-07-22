@@ -18,7 +18,6 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 - [YouTube Channels](#youtube-channels)
 - [Books](#books)
 - [Blogs](#blogs)
-  - [Articles](#articles)
 - [Build Manuals](#build-manuals)
 
 <!-- tocstop -->
@@ -57,11 +56,8 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 
 ## Online Editors
 
-- [buildwithchrome] - Build a LEGO model on a 32 x 32 baseplate
-    and share it with everybody on a world map.
 - [Mecabricks] - Build your 3D LEGO models online.
 
-[buildwithchrome]: https://www.buildwithchrome.com
 [Mecabricks]: https://mecabricks.com
 
 
@@ -98,9 +94,11 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 
 - [awesome-lego-machine-learning] - A curated list of awesome LEGO machine learning resources.
 - [Holly-Wood.it] - Tutorials, utilities and software add-ons for LDraw.
+- [BrickHub] - A place for sharing LEGO building instructions.
 
 [awesome-lego-machine-learning]: https://github.com/360er0/awesome-lego-machine-learning
 [Holly-Wood.it]: https://www.holly-wood.it/
+[BrickHub]: https://brickhub.org/
 
 
 ## Software Libraries
@@ -130,6 +128,7 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 - [Node Move Hub] - Node.js library to communicate with the LEGO Boost Move Hub.
 - [rioforce/LEGO-Textures] - Textures scanned from real LEGO bricks.
 - [seankross/lego] - R data package featuring every LEGO set from 1970 to 2014
+- [ldr_wgpu] - A Rust LDraw renderer using WGPU.
 
 [BrickMosaic]: https://sourceforge.net/projects/brickmosaic/
 [brickowl2rebrickable]: https://github.com/dgrant/brickowl2rebrickable
@@ -149,6 +148,7 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 [Node Move Hub]: https://github.com/hobbyquaker/node-movehub
 [rioforce/LEGO-Textures]: https://github.com/rioforce/LEGO-Textures
 [seankross/lego]: https://github.com/seankross/lego
+[ldr_wgpu]: https://github.com/ScanMountGoat/ldr_wgpu
 
 
 ## Competitors
@@ -225,8 +225,12 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 ## Add-ons
 
 - [bitbeam] - LEGO technic compatible wooden beams.
+- [BrickPi] - Kit to replace NXT/EV3 with the Raspberry Pi for more functionality.
+- [Pybricks] - Python and Block coding for LEGO hubs, full control of motors and sensors.
 
 [bitbeam]: https://github.com/hugs/bitbeam
+[BrickPi]: https://www.dexterindustries.com/brickpi/
+[Pybricks]: https://pybricks.com/
 
 
 ## YouTube Channels
@@ -248,6 +252,15 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 
 [laser-hacks]: https://www.1000laserhacks.uni-osnabrueck.de/startseite.html
 [Minifigure.org]: https://www.minifigure.org
+
+
+## Blogs
+
+- [reids4fun] - Reid’s For Fun.
+- [bldesign] - Bram's LEGO Site.
+
+[reids4fun]: https://www.reids4fun.com/topic/lego
+[bldesign]: https://lego.bldesign.org/
 
 
 ### Articles
