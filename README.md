@@ -258,9 +258,11 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 
 - [reids4fun] - Reid’s For Fun.
 - [bldesign] - Bram's LEGO Site.
+- [BrickNerd] - BrickNerd.
 
 [reids4fun]: https://www.reids4fun.com/topic/lego
 [bldesign]: https://lego.bldesign.org/
+[BrickNerd]: https://bricknerd.com/
 
 
 ### Articles
