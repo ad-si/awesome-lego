@@ -1,4 +1,4 @@
-name: Awesome_Lint
+name: Awesome Lint
 on: push
 
 jobs:
