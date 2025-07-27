@@ -1,0 +1,15 @@
+name: Check Links
+
+on: push
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: --verbose --no-progress --require-https --exclude 'https://bricks.stackexchange.com/*' --exclude 'https://mecabricks.com/*' README.md
+          fail: true
