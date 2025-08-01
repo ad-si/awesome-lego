@@ -1,9 +1,8 @@
-# Awesome LEGO
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome LEGO [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome LEGO software, archives, links, and other resources.
 
-<!-- toc -->
+## Contents
 
 - [CAD](#cad)
 - [Online Editors](#online-editors)
@@ -19,10 +18,8 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 - [YouTube Channels](#youtube-channels)
 - [Books](#books)
 - [Blogs](#blogs)
-  - [Articles](#articles)
+    - [Articles](#articles)
 - [Build Manuals](#build-manuals)
-
-<!-- tocstop -->
 
 ## CAD
 
@@ -115,7 +112,6 @@ A curated list of awesome LEGO software, archives, links, and other resources.
     Exports a list of bricks as a BrickLink XML file (Windows, Linux, macOS).
 - [ldd to ai swatches] - Script to convert LEGO Digital Designer Materials
     to Adobe Illustrator Color Swatches (ASE).
-- [ldmakelist] - Tool to create the list of available LDraw parts (Windows).
 - [ldr importer] - App to import LDraw and LDraw compatible parts and models
     into Blender (including proper mesh and materials) (Windows, Linux, macOS).
 - [ldraw.rs] - Library for manipulating and rendering LDraw model files in Rust.
@@ -138,7 +134,6 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 [brickutils]: https://sourceforge.net/projects/brickutils/
 [ld pattern creator]: https://sourceforge.net/projects/patterncreator/
 [ldd to ai swatches]: https://github.com/NickAb/ldd-to-ai-swatches
-[ldmakelist]: https://code.google.com/p/ldmakelist/
 [ldr importer]: https://github.com/le717/LDR-Importer
 [ldraw.rs]: https://github.com/segfault87/ldraw.rs
 [ldview]: https://ldview.sourceforge.net
