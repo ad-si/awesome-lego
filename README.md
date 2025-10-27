@@ -1,8 +1,8 @@
-# Awesome LEGO
+# Awesome LEGO [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome LEGO software, archives, links, and other resources.
 
-<!-- toc -->
+## Contents
 
 - [CAD](#cad)
 - [Online Editors](#online-editors)
@@ -18,9 +18,8 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 - [YouTube Channels](#youtube-channels)
 - [Books](#books)
 - [Blogs](#blogs)
+    - [Articles](#articles)
 - [Build Manuals](#build-manuals)
-
-<!-- tocstop -->
 
 ## CAD
 
@@ -113,7 +112,6 @@ A curated list of awesome LEGO software, archives, links, and other resources.
     Exports a list of bricks as a BrickLink XML file (Windows, Linux, macOS).
 - [ldd to ai swatches] - Script to convert LEGO Digital Designer Materials
     to Adobe Illustrator Color Swatches (ASE).
-- [ldmakelist] - Tool to create the list of available LDraw parts (Windows).
 - [ldr importer] - App to import LDraw and LDraw compatible parts and models
     into Blender (including proper mesh and materials) (Windows, Linux, macOS).
 - [ldraw.rs] - Library for manipulating and rendering LDraw model files in Rust.
@@ -126,6 +124,7 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 - [natejacobs/brickset-api] - Get LEGO set information using the Brickset API.
 - [node ldraw] - Node.js library to parse an LDraw file.
 - [node move hub] - Node.js library to communicate with the LEGO Boost Move Hub.
+- [pyldraw3] - A modern Python package for creating and manipulating LDraw format files.
 - [rioforce/lego-textures] - Textures scanned from real LEGO bricks.
 - [seankross/lego] - R data package featuring every LEGO set from 1970 to 2014.
 - [ldr_wgpu] - A Rust LDraw renderer using WGPU.
@@ -135,7 +134,6 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 [brickutils]: https://sourceforge.net/projects/brickutils/
 [ld pattern creator]: https://sourceforge.net/projects/patterncreator/
 [ldd to ai swatches]: https://github.com/NickAb/ldd-to-ai-swatches
-[ldmakelist]: https://code.google.com/p/ldmakelist/
 [ldr importer]: https://github.com/le717/LDR-Importer
 [ldraw.rs]: https://github.com/segfault87/ldraw.rs
 [ldview]: https://ldview.sourceforge.net
@@ -146,6 +144,7 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 [natejacobs/brickset-api]: https://github.com/NateJacobs/Brickset-API
 [node ldraw]: https://github.com/jsonxr/node-ldraw
 [node move hub]: https://github.com/hobbyquaker/node-movehub
+[pyldraw3]: https://github.com/hbmartin/pyldraw3/
 [rioforce/lego-textures]: https://github.com/rioforce/LEGO-Textures
 [seankross/lego]: https://github.com/seankross/lego
 [ldr_wgpu]: https://github.com/ScanMountGoat/ldr_wgpu
@@ -256,7 +255,7 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 
 ## Blogs
 
-- [reids4fun] - Reid’s For Fun.
+- [reids4fun] - Reid's For Fun.
 - [bldesign] - Bram's LEGO Site.
 - [bricknerd] - BrickNerd.
 
