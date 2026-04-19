@@ -275,7 +275,7 @@ A curated list of awesome LEGO software, archives, links, and other resources.
     fan projects, and archives.
 
 [manic miners]: https://manicminers.baraklava.com/
-[the research realm]: https://discord.gg/aZWknj2j
+[the research realm]: https://researchrealm.net/
 
 
 ## Build Manuals
