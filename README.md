@@ -152,22 +152,19 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 
 ## Competitors
 
-- [airfix] - Quickbuild push-together model kits.
-- [best-lock]
-- [brik.co] - Laptop cases and wall tiles covered with LEGO compatible studs.
-- [flexo] - Flexible brick system.
-- [makeblock] - Various building blocks for robotic kits.
-- [mega bloks]
-- [minifigures.com] - Special minifigure designs and service to order
-    custom made minifigures.
+- [Airfix] - Quickbuild push-together model kits.
+- [Brik.co] - Laptop cases and wall tiles covered with LEGO compatible studs.
+- [Flexo] - Flexible brick system.
+- [Makeblock] - Various building blocks for robotic kits.
+- [Mega Bloks]
+- [Minifigures.com] - Special minifigure designs and service to order custom made minifigures.
 
-[airfix]: https://uk.airfix.com/shop/quick-build
-[best-lock]: http://www.best-lock.com/
-[brik.co]: https://www.brik.co
-[flexo]: https://www.flexo.nz
-[makeblock]: https://www.makeblock.com
-[mega bloks]: https://megabloks.com
-[minifigures.com]: https://www.minifigures.com/
+[Airfix]: https://uk.airfix.com/shop/quick-build
+[Brik.co]: https://www.brik.co
+[Flexo]: https://www.flexo.nz
+[Makeblock]: https://www.makeblock.com
+[Mega Bloks]: https://megabloks.com
+[Minifigures.com]: https://www.minifigures.com/
 
 
 ## Links
