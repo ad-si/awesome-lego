@@ -6,6 +6,11 @@ update-toc:
 		README.md
 
 
+.PHONY: format
+format:
+	nix fmt
+
+
 .PHONY: test
 test:
 	lychee \
