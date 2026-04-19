@@ -19,6 +19,7 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 - [Books](#books)
 - [Blogs](#blogs)
     - [Articles](#articles)
+- [Games](#games)
 - [Build Manuals](#build-manuals)
 
 ## CAD
@@ -265,6 +266,15 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 [price-history]: https://web.archive.org/web/20240708123806/https://therealityprose.wordpress.com/2013/01/17/what_happened_with_lego/
 [printing-bricks]: https://hackaday.com/2017/09/08/ive-seen-the-future-and-its-full-of-freakin-huge-bricks/
 [asm]: https://bricks.stackexchange.com/questions/11252
+
+
+## Games
+
+- [manic miners] - Remake of the 1999 LEGO Rock Raiders PC game.
+- [the research realm] - Community for LEGO game preservation, fan projects, and archives.
+
+[manic miners]: https://manicminers.baraklava.com/
+[the research realm]: https://researchrealm.net/
 
 
 ## Build Manuals
