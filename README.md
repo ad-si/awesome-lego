@@ -271,8 +271,7 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 ## Games
 
 - [manic miners] - Remake of the 1999 LEGO Rock Raiders PC game.
-- [the research realm] - Discord community for LEGO game preservation,
-    fan projects, and archives.
+- [the research realm] - Community for LEGO game preservation, fan projects, and archives.
 
 [manic miners]: https://manicminers.baraklava.com/
 [the research realm]: https://researchrealm.net/
