@@ -273,6 +273,7 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 - [chocolate carving pantograph] - Carve graphics in small chocolate tiles.
 - [domino row building machine][domino] - Domino row building machine.
 - [lego 3d printer] - Building manual for 3D printer made of LEGO bricks.
+- [lego building instructions] - Official LEGO building instructions.
 - [lego music] - Tangible UI to create music from an arrangement of LEGO bricks.
 - [mils system] - Modular integrated Landscaping System.
 - [motorized pop-up book stand][motorized-book-stand] - Motorized Pop-Up Book Stand.
@@ -287,6 +288,7 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 [chocolate carving pantograph]: https://woodgears.ca/pantograph/lego.html
 [domino]: https://woodgears.ca/domino/
 [lego 3d printer]: https://www.instructables.com/LEGO-3d-Printer/
+[lego building instructions]: https://www.lego.com/service/building-instructions
 [lego music]: https://hackaday.io/project/161277-lego-music
 [mils system]: https://www.abellon.net/MILS/
 [motorized-book-stand]: https://jkbrickworks.com/motorized-pop-up-book-stand/
