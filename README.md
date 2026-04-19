@@ -1,4 +1,4 @@
-# Awesome LEGO [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome LEGO [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome LEGO software, archives, links, and other resources.
 
@@ -41,14 +41,14 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 
 [bluebrick]: https://bluebrick.lswproject.com
 [bricklink studio]: https://www.bricklink.com/v3/studio/download.page
-[bricksmith]: https://bricksmith.sourceforge.net
+[bricksmith]: https://bricksmith.sourceforge.io/
 [konstruktor]: https://github.com/segfault87/Konstruktor
 [ldcad]: https://www.melkert.net/LDCad
 [ldraw]: https://ldraw.org
-[leocad]: https://leocad.org
-[lpub 4]: https://lpub4.sourceforge.net
+[leocad]: https://www.leocad.org
+[lpub 4]: https://sourceforge.net/projects/lpub4/
 [mlcad]: http://mlcad.lm-software.com/
-[openldraw]: https://github.com/HazenBabcock/openldraw
+[openldraw]: https://github.com/HazenBabcock/opensdraw
 [toybrick]: https://github.com/joewalnes/toybrick
 [web lic]: https://github.com/remig/web_lic
 
@@ -83,7 +83,7 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 [customs]: https://en.brickimedia.org/wiki/Category:Customs
 [stories]: https://en.brickimedia.org/wiki/Category:Stories
 [ideas]: https://en.brickimedia.org/wiki/Category:Ideas
-[lugnet]: https://lugnet.com
+[lugnet]: https://www.lugnet.com
 [peeron]: http://www.peeron.com/
 [unofficial minifigure catalog]: https://www.minifigure.org/application/
 [let's build it again]: https://letsbuilditagain.com
@@ -102,11 +102,8 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 
 ## Software Libraries
 
-- [brickmosaic] - Transform a photo to a bricks mosaic (Windows, Linux, macOS).
 - [brickowl2rebrickable] - Tool to convert [brickowl] orders to
     [rebrickable] CSV files (Windows, Linux, macOS).
-- [brickutils] - Tool to build your brick catalog and check if you can build
-    a model created with LDD or LDraw.
 - [ld pattern creator] - Vector based texture editor for
     decorated LDraw parts (Windows).
     Exports a list of bricks as a BrickLink XML file (Windows, Linux, macOS).
@@ -129,9 +126,7 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 - [seankross/lego] - R data package featuring every LEGO set from 1970 to 2014.
 - [ldr_wgpu] - A Rust LDraw renderer using WGPU.
 
-[brickmosaic]: https://sourceforge.net/projects/brickmosaic/
 [brickowl2rebrickable]: https://github.com/dgrant/brickowl2rebrickable
-[brickutils]: https://sourceforge.net/projects/brickutils/
 [ld pattern creator]: https://sourceforge.net/projects/patterncreator/
 [ldd to ai swatches]: https://github.com/NickAb/ldd-to-ai-swatches
 [ldr importer]: https://github.com/le717/LDR-Importer
@@ -159,11 +154,11 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 - [Mega Bloks]
 - [Minifigures.com] - Special minifigure designs and service to order custom made minifigures.
 
-[Airfix]: https://uk.airfix.com/shop/quick-build
+[Airfix]: https://uk.airfix.com/quickbuild
 [Brik.co]: https://www.brik.co
 [Flexo]: https://www.flexo.nz
 [Makeblock]: https://www.makeblock.com
-[Mega Bloks]: https://megabloks.com
+[Mega Bloks]: https://shop.mattel.com/collections/building-blocks
 [Minifigures.com]: https://www.minifigures.com/
 
 
@@ -184,9 +179,9 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 - [brickpicker] - LEGO price and investing guide.
 - [lego shop] - Official LEGO online store.
 
-[bricklink]: https://bricklink.com
-[brickowl]: https://brickowl.com
-[brickpicker]: https://brickpicker.com
+[bricklink]: https://www.bricklink.com
+[brickowl]: https://www.brickowl.com
+[brickpicker]: https://www.brickpicker.com
 [lego shop]: https://shop.lego.com
 
 
@@ -199,7 +194,7 @@ A curated list of awesome LEGO software, archives, links, and other resources.
     with no need for precision optics or 3D printed parts.
 
 [fuddl/brickdock]: https://github.com/fuddl/BrickDock
-[braiding machine]: https://nico71.fr/braiding-machine-makes-wristband
+[braiding machine]: https://www.nico71.fr/braiding-machine-makes-wristband/
 [lego a4 plotter]: https://www.youtube.com/watch?v=fGQu90EPVAM
 [legomicroscope]: https://github.com/tobetz/LegoMicroscope
 
@@ -213,7 +208,7 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 - [milsgen] - Converts heightmaps to LDraw .ldr files.
 
 [brickify]: https://github.com/ad-si/brickify
-[brickr]: https://lgg.epfl.ch/publications/2013/lego
+[brickr]: https://brickr.org/
 [lsculpt]: https://code.google.com/archive/p/lsculpt
 [milsgen]: https://github.com/otonribic/milsgen
 
@@ -235,9 +230,9 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 - [akiyuky] - Various LEGO technic contraptions.
 - [mlchaelhlckoxfilms] - Stop motion LEGO videos.
 
-[lego]: https://youtube.com/user/LEGO
-[akiyuky]: https://youtube.com/user/akiyuky
-[mlchaelhlckoxfilms]: https://youtube.com/user/MlCHAELHlCKOXFilms
+[lego]: https://www.youtube.com/user/LEGO
+[akiyuky]: https://www.youtube.com/user/akiyuky
+[mlchaelhlckoxfilms]: https://www.youtube.com/user/MlCHAELHlCKOXFilms
 
 
 ## Books
@@ -291,7 +286,7 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 [brickit]: https://brickit.app
 [chocolate carving pantograph]: https://woodgears.ca/pantograph/lego.html
 [domino]: https://woodgears.ca/domino/
-[lego 3d printer]: https://www.instructables.com/id/LEGO-3d-Printer/
+[lego 3d printer]: https://www.instructables.com/LEGO-3d-Printer/
 [lego music]: https://hackaday.io/project/161277-lego-music
 [mils system]: https://www.abellon.net/MILS/
 [motorized-book-stand]: https://jkbrickworks.com/motorized-pop-up-book-stand/
