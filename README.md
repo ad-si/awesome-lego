@@ -1,5 +1,7 @@
 # Awesome LEGO [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
+<!--lint disable definition-case-->
+
 A curated list of awesome LEGO software, archives, links, and other resources.
 
 ## Contents
