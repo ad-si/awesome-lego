@@ -180,28 +180,28 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 - [bricklink] - Unofficial LEGO Marketplace.
 - [brickowl] - Marketplace to buy and sell LEGO parts, minifigures and sets.
 - [brickpicker] - LEGO price and investing guide.
-- [lego shop] - Official LEGO online store.
+- [LEGO shop] - Official LEGO online store.
 
 [bricklink]: https://www.bricklink.com
 [brickowl]: https://www.brickowl.com
 [brickpicker]: https://www.brickpicker.com
-[lego shop]: https://shop.lego.com
+[LEGO shop]: https://shop.lego.com
 
 
 ## Models
 
 - [fuddl/brickdock] - A Dock compatible with the iPhone 5 made from LEGO bricks.
 - [braiding machine] - Powered by a single motor and makes ropes & wristband.
-- [lego harpsichord] - Life-sized, fully functional harpsichord built from LEGO bricks.
-- [lego a4 plotter] - 2D plotter made with LEGO Technic and Mindstorms.
-- [legomicroscope] - Simple to build microscope
+- [LEGO harpsichord] - Life-sized, fully functional harpsichord built from LEGO bricks.
+- [LEGO A4 plotter] - 2D plotter made with LEGO Technic and Mindstorms.
+- [LegoMicroscope] - Simple to build microscope
     with no need for precision optics or 3D printed parts.
 
 [fuddl/brickdock]: https://github.com/fuddl/BrickDock
 [braiding machine]: https://www.nico71.fr/braiding-machine-makes-wristband/
-[lego harpsichord]: https://www.henrylim.org/Harpsichord.html
-[lego a4 plotter]: https://www.youtube.com/watch?v=fGQu90EPVAM
-[legomicroscope]: https://github.com/tobetz/LegoMicroscope
+[LEGO harpsichord]: https://www.henrylim.org/Harpsichord.html
+[LEGO A4 plotter]: https://www.youtube.com/watch?v=fGQu90EPVAM
+[LegoMicroscope]: https://github.com/tobetz/LegoMicroscope
 
 
 ## Model Conversion
@@ -231,11 +231,11 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 
 ## YouTube Channels
 
-- [lego] - Official LEGO channel.
+- [LEGO] - Official LEGO channel.
 - [akiyuky] - Various LEGO technic contraptions.
 - [mlchaelhlckoxfilms] - Stop motion LEGO videos.
 
-[lego]: https://www.youtube.com/user/LEGO
+[LEGO]: https://www.youtube.com/user/LEGO
 [akiyuky]: https://www.youtube.com/user/akiyuky
 [mlchaelhlckoxfilms]: https://www.youtube.com/user/MlCHAELHlCKOXFilms
 
@@ -286,24 +286,24 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 - [brickit] - App to scan your LEGO bricks and find build instructions.
 - [chocolate carving pantograph] - Carve graphics in small chocolate tiles.
 - [domino row building machine][domino] - Domino row building machine.
-- [lego 3d printer] - Building manual for 3D printer made of LEGO bricks.
-- [lego building instructions] - Official LEGO building instructions.
-- [lego music] - Tangible UI to create music from an arrangement of LEGO bricks.
+- [LEGO 3D printer] - Building manual for 3D printer made of LEGO bricks.
+- [LEGO building instructions] - Official LEGO building instructions.
+- [LEGO music] - Tangible UI to create music from an arrangement of LEGO bricks.
 - [mils system] - Modular integrated Landscaping System.
 - [motorized pop-up book stand][motorized-book-stand] - Motorized Pop-Up Book Stand.
 - [myphotonics] - Blueprints for optic and photonic equipment built with LEGO.
 - [nintendo switch experiments][nintendo] - Nintendo Switch experiments.
 - [star racer] - Star Wars racing game.
-- [ultimate lego soccer robot][ulsr] - Tech United robot
+- [Ultimate LEGO soccer robot][ulsr] - Tech United robot
     built with LEGO Mindstorms.
 - [vortex candy launcher] - Chocolate throwing machine.
 
 [brickit]: https://brickit.app
 [chocolate carving pantograph]: https://woodgears.ca/pantograph/lego.html
 [domino]: https://woodgears.ca/domino/
-[lego 3d printer]: https://www.instructables.com/LEGO-3d-Printer/
-[lego building instructions]: https://www.lego.com/service/building-instructions
-[lego music]: https://hackaday.io/project/161277-lego-music
+[LEGO 3D printer]: https://www.instructables.com/LEGO-3d-Printer/
+[LEGO building instructions]: https://www.lego.com/service/building-instructions
+[LEGO music]: https://hackaday.io/project/161277-lego-music
 [mils system]: https://www.abellon.net/MILS/
 [motorized-book-stand]: https://jkbrickworks.com/motorized-pop-up-book-stand/
 [myphotonics]: https://www.ufp.uni-osnabrueck.de/en/education/myphotonics.html
