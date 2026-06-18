@@ -192,12 +192,14 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 
 - [fuddl/brickdock] - A Dock compatible with the iPhone 5 made from LEGO bricks.
 - [braiding machine] - Powered by a single motor and makes ropes & wristband.
+- [lego harpsichord] - Life-sized, fully functional harpsichord built from LEGO bricks.
 - [lego a4 plotter] - 2D plotter made with LEGO Technic and Mindstorms.
 - [legomicroscope] - Simple to build microscope
     with no need for precision optics or 3D printed parts.
 
 [fuddl/brickdock]: https://github.com/fuddl/BrickDock
 [braiding machine]: https://www.nico71.fr/braiding-machine-makes-wristband/
+[lego harpsichord]: https://www.henrylim.org/Harpsichord.html
 [lego a4 plotter]: https://www.youtube.com/watch?v=fGQu90EPVAM
 [legomicroscope]: https://github.com/tobetz/LegoMicroscope
 
