@@ -222,10 +222,13 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 
 - [bitbeam] - LEGO technic compatible wooden beams.
 - [brickpi] - Kit to replace NXT/EV3 with the Raspberry Pi for more functionality.
+- [free universal construction kit][universal-kit] - Nearly 80 3D-printable adapter pieces
+    to connect LEGO with other construction toys like Duplo, K'Nex, and Tinkertoys.
 - [pybricks] - Python and Block coding for LEGO hubs, full control of motors and sensors.
 
 [bitbeam]: https://github.com/hugs/bitbeam
 [brickpi]: https://www.dexterindustries.com/brickpi/
+[universal-kit]: https://fffff.at/free-universal-construction-kit/
 [pybricks]: https://pybricks.com/
 
 
