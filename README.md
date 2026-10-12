@@ -78,6 +78,7 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 - [unofficial minifigure catalog] - App with information about all minifigures
     and sets from 1975 to 2015.
 - [let's build it again] - Online LEGO building instructions.
+- [BrickTracker] - A self-hosted web application for organizing and tracking LEGO sets, parts, and minifigures. 
 
 [brickfact]: https://brickfact.com
 [brickset]: https://brickset.com
@@ -90,7 +91,7 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 [peeron]: http://www.peeron.com/
 [unofficial minifigure catalog]: https://www.minifigure.org/application/
 [let's build it again]: https://letsbuilditagain.com
-
+[BrickTracker]: https://gitea.baerentsen.space/FrederikBaerentsen/BrickTracker
 
 ## Resources
 
