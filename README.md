@@ -78,7 +78,6 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 - [unofficial minifigure catalog] - App with information about all minifigures
     and sets from 1975 to 2015.
 - [let's build it again] - Online LEGO building instructions.
-- [BrickTracker] - A self-hosted web application for organizing and tracking LEGO sets, parts, and minifigures. 
 
 [brickfact]: https://brickfact.com
 [brickset]: https://brickset.com
@@ -91,7 +90,7 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 [peeron]: http://www.peeron.com/
 [unofficial minifigure catalog]: https://www.minifigure.org/application/
 [let's build it again]: https://letsbuilditagain.com
-[BrickTracker]: https://gitea.baerentsen.space/FrederikBaerentsen/BrickTracker
+
 
 ## Resources
 
@@ -129,6 +128,7 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 - [rioforce/lego-textures] - Textures scanned from real LEGO bricks.
 - [seankross/lego] - R data package featuring every LEGO set from 1970 to 2014.
 - [ldr_wgpu] - A Rust LDraw renderer using WGPU.
+- [BrickTracker] - Self-hosted web application for organizing and tracking LEGO sets, parts, and minifigures.
 
 [brickowl2rebrickable]: https://github.com/dgrant/brickowl2rebrickable
 [ld pattern creator]: https://sourceforge.net/projects/patterncreator/
@@ -147,6 +147,7 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 [rioforce/lego-textures]: https://github.com/rioforce/LEGO-Textures
 [seankross/lego]: https://github.com/seankross/lego
 [ldr_wgpu]: https://github.com/ScanMountGoat/ldr_wgpu
+[BrickTracker]: https://gitea.baerentsen.space/FrederikBaerentsen/BrickTracker
 
 
 ## Competitors
